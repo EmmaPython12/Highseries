@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zenobia in Chains #1",
+    "imageRef": "1.png",
+    "animationRef": "1.mp4",
+    "Artist": "Harriet Hosmer",
+    "Classification": "Sculpture",
+    "Colorway": "Past"
+  },
+  {
+    "name": "Zenobia in Chains #2",
+    "imageRef": "2.png",
+    "animationRef": "2.mp4",
+    "Artist": "Harriet Hosmer",
+    "Classification": "Sculpture",
+    "Colorway": "Present"
+  },
+  {
+    "name": "Zenobia in Chains #3",
+    "imageRef": "3.png",
+    "animationRef": "3.mp4",
+    "Artist": "Harriet Hosmer",
+    "Classification": "Sculpture",
+    "Colorway": "Future"
+  }
+]
